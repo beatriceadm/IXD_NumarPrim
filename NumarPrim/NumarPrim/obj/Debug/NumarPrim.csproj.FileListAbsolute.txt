@@ -1,0 +1,11 @@
+C:\student\IXD\NumarPrim\NumarPrim\bin\Debug\NumarPrim.exe.config
+C:\student\IXD\NumarPrim\NumarPrim\bin\Debug\NumarPrim.exe
+C:\student\IXD\NumarPrim\NumarPrim\bin\Debug\NumarPrim.pdb
+C:\student\IXD\NumarPrim\NumarPrim\obj\Debug\NumarPrim.csproj.AssemblyReference.cache
+C:\student\IXD\NumarPrim\NumarPrim\obj\Debug\NumarPrim.csproj.SuggestedBindingRedirects.cache
+C:\student\IXD\NumarPrim\NumarPrim\obj\Debug\NumarPrim.Properties.Resources.resources
+C:\student\IXD\NumarPrim\NumarPrim\obj\Debug\NumarPrim.csproj.GenerateResource.cache
+C:\student\IXD\NumarPrim\NumarPrim\obj\Debug\NumarPrim.csproj.CoreCompileInputs.cache
+C:\student\IXD\NumarPrim\NumarPrim\obj\Debug\NumarPrim.exe
+C:\student\IXD\NumarPrim\NumarPrim\obj\Debug\NumarPrim.pdb
+C:\student\IXD\NumarPrim\NumarPrim\obj\Debug\NumarPrim.submit.resources
